@@ -1,5 +1,4 @@
 # GoodbyeWorld
-Just a test repository
 
 Hello Developers,
 
